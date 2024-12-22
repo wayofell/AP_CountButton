@@ -1,1 +1,1 @@
-![Gif](countb)
+![Gif](countb.gif)
